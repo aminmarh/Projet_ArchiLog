@@ -1,7 +1,6 @@
 package persistance.modele.document;
 
 import mediatheque.Document;
-import mediatheque.EmpruntException;
 import persistance.modele.utilisateur.Abonne;
 
 public interface EtatDocument {

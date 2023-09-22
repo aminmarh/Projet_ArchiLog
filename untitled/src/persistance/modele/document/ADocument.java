@@ -3,7 +3,6 @@ package persistance.modele.document;
 import java.time.LocalDate;
 
 import mediatheque.Document;
-import mediatheque.EmpruntException;
 import persistance.modele.utilisateur.Abonne;
 
 public abstract class ADocument implements Document {
